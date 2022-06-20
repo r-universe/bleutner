@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RStoolbox"]
+	path = RStoolbox
+	url = https://github.com/bleutner/rstoolbox
+	shallow = true
+	registered = true
